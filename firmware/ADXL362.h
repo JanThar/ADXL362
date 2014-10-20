@@ -21,6 +21,9 @@
 //#include "Arduino.h"
 #include "application.h"
 
+#ifndef ADXL362_h
+#define ADXL362_h
+ 
 #define byte char
 #define int16_t int
 
