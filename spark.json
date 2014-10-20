@@ -1,7 +1,7 @@
 {
   "name": "ADXL362",
-  "author": „Original created by Anne Mahaffey, modified by Jonathan Ruiz de Garibay, slightly modified for Spark IO by Jan Thar“,
-  "license": „CC BY-SA 3.0“,
+  "author": "Original created by Anne Mahaffey, modified by Jonathan Ruiz de Garibay, slightly modified for Spark IO by Jan Thar",
+  "license": "CC BY-SA 3.0",
   "version": "0.0.01",
   "description": "Modified Arduino ADXL362 library"
 }
