@@ -1,7 +1,7 @@
 //First rought testsketch for the Spark Buttons shield
 
 // This #include statement was automatically added by the Spark IDE.
-#include "ADXL362.h"
+#include "ADXL362/ADXL362.h"
 #include "application.h"
 #include "neopixel/neopixel.h"
 
