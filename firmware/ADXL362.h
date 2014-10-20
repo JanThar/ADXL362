@@ -59,9 +59,7 @@ public:
     //      - Free Fall, Linked Mode, Loop Mode
     
     void checkAllControlRegs();
-    
-
-    
+  
     //  Low-level SPI control, to simplify overall coding
     byte SPIreadOneRegister(byte regAddress);
     void SPIwriteOneRegister(byte regAddress, byte regValue);
