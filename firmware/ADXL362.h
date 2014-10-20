@@ -69,3 +69,4 @@ public:
     int16_t  SPIreadTwoRegisters(byte regAddress);
     void SPIwriteTwoRegisters(byte regAddress, int16_t twoRegValue);
 };
+#endif

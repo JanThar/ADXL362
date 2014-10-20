@@ -20,8 +20,7 @@
 
 //#include <Arduino.h>
 #include "application.h"
-#include <ADXL362.h>
-#include <SPI.h>
+#include "ADXL362.h"
 
 #define int16_t int
 #define byte char
