@@ -24,7 +24,7 @@
 #ifndef ADXL362_h
 #define ADXL362_h
  
-#define byte char
+#define byte int
 #define int16_t int
 
 class ADXL362

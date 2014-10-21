@@ -23,7 +23,7 @@
 #include "ADXL362.h"
 
 #define int16_t int
-#define byte char
+#define byte int
 //#define ADXL362_DEBUG
 
 int16_t slaveSelectPin = A2;
