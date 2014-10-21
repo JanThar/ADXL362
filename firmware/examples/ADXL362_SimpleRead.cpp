@@ -21,7 +21,8 @@ SCLK, MISO, MOSI, and DP 10 of Arduino
 */ 
 
 //#include <SPI.h>
-#include <ADXL362.h>
+#include "ADXL362/ADXL362.h"
+#include "application.h"
 
 ADXL362 xl;
 
