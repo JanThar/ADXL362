@@ -1,4 +1,4 @@
-adxl362
+ADXL362
 =======
 
 Modified Arduino Library for use with Spark Buttons
